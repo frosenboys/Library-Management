@@ -4,7 +4,7 @@ package librarymanagement.provider;
  *
  * @author XuanDat
  */
-public class LibraryItem {
+public abstract class LibraryItem {
     protected long id;
     protected String title;
     protected String type;
@@ -24,11 +24,7 @@ public class LibraryItem {
     public String getType() { return type; }
     public void getType(String _type) { type = _type; }
 
-    public double calculateFee(int days) {
-        return 0.0;
-    }
+    public abstract double calculateFee(int days);
 
-    public int getValue() {
-        return 0;
-    }
+    public abstract int getValue();
 }

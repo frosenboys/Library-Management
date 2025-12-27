@@ -7,9 +7,11 @@
             <file>file:/D:/Code/gdu-practice/GDU_Java_OOP/LibraryManagement/src/librarymanagement/client/ItemDAO.java</file>
             <file>file:/D:/Code/gdu-practice/GDU_Java_OOP/LibraryManagement/src/librarymanagement/client/functions/DeleteController.java</file>
             <file>file:/D:/Code/gdu-practice/GDU_Java_OOP/LibraryManagement/src/librarymanagement/client/functions/EditController.java</file>
+            <file>file:/D:/Code/gdu-practice/GDU_Java_OOP/LibraryManagement/src/librarymanagement/provider/LibraryItem.java</file>
             <file>file:/D:/Code/gdu-practice/GDU_Java_OOP/LibraryManagement/src/librarymanagement/client/functions/AddController.java</file>
             <file>file:/D:/Code/gdu-practice/GDU_Java_OOP/LibraryManagement/src/librarymanagement/client/FakeDatabase.java</file>
             <file>file:/D:/Code/gdu-practice/GDU_Java_OOP/LibraryManagement/src/librarymanagement/LibraryManagement.java</file>
+            <file>file:/D:/Code/gdu-practice/GDU_Java_OOP/LibraryManagement/src/librarymanagement/provider/Book.java</file>
         </group>
     </open-files>
 </project-private>
