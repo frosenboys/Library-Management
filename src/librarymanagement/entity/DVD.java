@@ -13,7 +13,7 @@ public class DVD extends LibraryItem {
     }
 
     @Override
-    public double calculateFee(int days) { return days * 1.5; }
+    public double calculateFee(int days) { return (duration / 30) * 0.05 * days; }
 
     @Override
     public int getValue() { return duration; }

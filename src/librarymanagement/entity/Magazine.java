@@ -13,7 +13,7 @@ public class Magazine extends LibraryItem {
     }
 
     @Override
-    public double calculateFee(int days) { return days * 0.5; }
+    public double calculateFee(int days) { return days; }
 
     @Override
     public int getValue() { return issueNumber; }

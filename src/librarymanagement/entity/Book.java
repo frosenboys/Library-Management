@@ -13,7 +13,7 @@ public class Book extends LibraryItem {
     }
 
     @Override
-    public double calculateFee(int days) { return days * 1.0; }
+    public double calculateFee(int days) { return  (pages / 100) * 0.1 * days; }
 
     @Override
     public int getValue() { return pages; }
