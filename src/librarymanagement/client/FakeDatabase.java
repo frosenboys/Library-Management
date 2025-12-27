@@ -4,7 +4,10 @@ package librarymanagement.client;
  *
  * @author XuanDat
  */
-import librarymanagement.provider.*;
+import librarymanagement.entity.Magazine;
+import librarymanagement.entity.Book;
+import librarymanagement.entity.LibraryItem;
+import librarymanagement.entity.DVD;
 import java.util.ArrayList;
 import java.util.List;
 

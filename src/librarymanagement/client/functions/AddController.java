@@ -4,8 +4,11 @@ package librarymanagement.client.functions;
  *
  * @author XuanDat
  */
+import librarymanagement.entity.Magazine;
+import librarymanagement.entity.Book;
+import librarymanagement.entity.LibraryItem;
+import librarymanagement.entity.DVD;
 import librarymanagement.client.ItemDAO;
-import librarymanagement.provider.*;
 
 public class AddController {
     public void addItem(String idStr, String title, String type, String valueStr) throws Exception {

@@ -1,4 +1,4 @@
-package librarymanagement.provider;
+package librarymanagement.entity;
 
 /**
  *

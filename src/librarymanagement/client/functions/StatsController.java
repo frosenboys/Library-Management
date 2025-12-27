@@ -5,7 +5,7 @@ package librarymanagement.client.functions;
  * @author XuanDat
  */
 import librarymanagement.client.ItemDAO;
-import librarymanagement.provider.LibraryItem;
+import librarymanagement.entity.LibraryItem;
 import java.util.List;
 
 public class StatsController {

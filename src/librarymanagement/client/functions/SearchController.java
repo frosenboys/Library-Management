@@ -6,7 +6,7 @@ package librarymanagement.client.functions;
  */
 import librarymanagement.client.ItemDAO;
 import librarymanagement.client.ItemDTO;
-import librarymanagement.provider.LibraryItem;
+import librarymanagement.entity.LibraryItem;
 import java.util.ArrayList;
 import java.util.List;
 

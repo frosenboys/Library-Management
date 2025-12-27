@@ -4,9 +4,12 @@ package librarymanagement.client.functions;
  *
  * @author XuanDat
  */
+import librarymanagement.entity.Magazine;
+import librarymanagement.entity.Book;
+import librarymanagement.entity.LibraryItem;
+import librarymanagement.entity.DVD;
 import librarymanagement.client.ItemDAO;
 import librarymanagement.client.ItemDTO;
-import librarymanagement.provider.*;
 
 public class EditController {
     public ItemDTO getItemDTO(int index) {

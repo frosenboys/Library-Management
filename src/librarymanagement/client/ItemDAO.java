@@ -4,7 +4,7 @@ package librarymanagement.client;
  *
  * @author XuanDat
  */
-import librarymanagement.provider.LibraryItem;
+import librarymanagement.entity.LibraryItem;
 import java.util.List;
 
 public class ItemDAO {
